@@ -1,0 +1,49 @@
+/* arriere plan */
+body{
+    background-color: ##bbbbbb
+
+
+
+}
+
+
+/*  Mise en forme des tableaux de données*/
+table {
+    border-collapse: collapse;
+    margin: 1em 0;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #228B22;
+    border-radius: 5px;
+}
+
+td {
+    padding: 15px;
+    border-bottom: 2px solid #ddd
+    font-family: Arial;
+    font-size:20px;
+    text-align: center;
+
+    border: 1px solid #ccc;
+    background-color: #36454F;
+    color: #FA8072;
+}
+/* la table */
+th {
+    background-color:#999999;
+    font-weight: bold;
+    color:#FA8072;
+}
+
+th.css-c34i5s {
+    border-bottom: 2px solid rgba(250, 250, 250, 0.1);
+    border-right: 2px solid rgba(250, 250, 250, 0.1);
+    vertical-align: middle;
+    padding: 0.25rem 0.375rem;
+    font-weight: 400;
+    font-family:Arial;
+    font-size:20px;
+    color: #FFFFFF;
+}
+/* Fin de mise en formes des tableaux de données*/
+
